@@ -3,11 +3,11 @@ title: Saadi Foundation
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [institution, governmental]
 date: 2023-01-28 15:54:20 +0330
-toc: true
+image: https://books.saadifoundation.ir/img/saadifoundation-logo.png
 ---
 
 # Saadi Foundation
-
+{{ post.image }}
 ## About
 lorem ipsum
 
