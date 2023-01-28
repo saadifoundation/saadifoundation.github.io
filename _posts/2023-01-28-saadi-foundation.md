@@ -7,7 +7,7 @@ image: https://books.saadifoundation.ir/img/saadifoundation-logo.png
 ---
 
 # Saadi Foundation
-{{ post.image }}
+
 ## About
 lorem ipsum
 
