@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Saadi Foundation</title>
-  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-01-28T15:14:43+02:00</updated>
+  <subtitle>List of Persian teaching institutions through the world.</subtitle>
+  <updated>2023-01-28T17:46:40+03:30</updated>
   <author>
     <name>SaadiFoundation</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,81 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Saadi Foundation</title>
+    <link href="http://localhost:4000/posts/saadi-foundation/" rel="alternate" type="text/html" title="Saadi Foundation" />
+    <published>2023-01-28T15:54:20+03:30</published>
+  
+    <updated>2023-01-28T15:54:20+03:30</updated>
+  
+    <id>http://localhost:4000/posts/saadi-foundation/</id>
+    <content src="http://localhost:4000/posts/saadi-foundation/" />
+    <author>
+      <name>SaadiFoundation</name>
+    </author>
+
+  
+    
+    <category term="TOP_CATEGORIE" />
+    
+    <category term="SUB_CATEGORIE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      About
+lorem ipsum
+
+Statistics
+
+Contact us
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Ministry of Education</title>
+    <link href="http://localhost:4000/posts/ministry-of-education/" rel="alternate" type="text/html" title="Ministry of Education" />
+    <published>2023-01-28T00:00:00+03:30</published>
+  
+    <updated>2023-01-28T00:00:00+03:30</updated>
+  
+    <id>http://localhost:4000/posts/ministry-of-education/</id>
+    <content src="http://localhost:4000/posts/ministry-of-education/" />
+    <author>
+      <name>SaadiFoundation</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
