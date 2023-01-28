@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://saadifoundation.ir/assets/6d15224c/images/footer-logo-fa.png
+avatar: https://books.saadifoundation.ir/img/saadifoundation-logo.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
