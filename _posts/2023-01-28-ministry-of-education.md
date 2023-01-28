@@ -2,6 +2,8 @@
 title: Ministry of Education
 ---
 
-# About
+# Ministry of Education
 
-# Contact us
+## About
+
+## Contact us
