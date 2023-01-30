@@ -22,3 +22,56 @@
   "layout/archives",
   "layout/categories",
   "layout/category-tag";
+
+  /* Customized CSS
+  * For Persian etc.
+  */
+  body,* {
+    direction: rtl;
+    font-family: Vazirmatn, sans-serif !important;
+
+    #sidebar {
+      right: 0;
+      ul {
+        padding-right: 0;
+      }
+    }
+
+    #main-wrapper {
+      margin-right: 260px;
+      margin-left: 0;
+
+      #panel-wrapper {
+        text-align: right;
+      }
+
+      .tag {
+        margin-left: 0.8rem;
+        margin-right: 0;
+        span {
+          margin-right: 0.6em;
+          margin-left: 0;
+        }
+      }
+
+      #archives a {
+        margin-left: 0;
+        margin-right: 2rem;
+      }
+    }
+
+    #topbar-wrapper {
+      right: 260px;
+      left: 0;
+    }
+    
+    footer {
+      margin-right: 260px;
+      margin-left: 0;
+    }
+
+    .post {
+      text-align: right;
+    }
+    
+  }

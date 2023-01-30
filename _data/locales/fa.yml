@@ -1,0 +1,93 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: مرکز
+  category: دسته‌بندی
+  tag: برچسب
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: خانه
+  categories: دسته‌بندی‌ها
+  tags: برچسب‌ها
+  archives: بایگانی
+  about: درباره
+
+# the text displayed in the search bar & search results
+search:
+  hint: جستجو
+  cancel: لغو
+  no_results: نتیجه‌ای پیدا نشد.
+
+panel:
+  lastmod: اخیرا به‌روزرسانی شده
+  trending_tags: برچسب‌های پرتعداد
+  toc: فهرست
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: این یادداشت با مجوز :LICENSE_NAME منتشر شده است.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: برخی از حقوق محفوظ است.
+  verbose: >-
+    به جز بخش‌های فنی، محتوای این سایت با مجوز
+    عمومی Commons Attribution 4.0 International (CC BY 4.0) منتشر شده‌اند.
+
+meta: در حال استفاده از :PLATFORM با قالب :THEME.
+
+not_found:
+  statment: متاسفانه این نشانی اشتباه وارد شده است.
+
+notification:
+  update_found: نسخه‌ی جدیدی از سایت فعال شده است.
+  update: به‌روزرسانی
+
+# ----- Posts related labels -----
+
+post:
+  written_by: نوشته‌ی
+  posted: ارسال‌شده
+  updated: به‌روزشده
+  words: واژه
+  pageview_measure: بازدید
+  read_time:
+    unit: دقیقه
+    prompt: خواندن
+  relate_posts: مطالعه‌ی بیشتر
+  share: اشتراک‌گذاری
+  button:
+    next: جدیدتر
+    previous: قدیمی‌تر
+    copy_code:
+      succeed: کپی شد!
+    share_link:
+      title: کپی پیوند
+      succeed: پیوند با موفقیت کپی شد!
+  # pinned prompt of posts list on homepage
+  pin_prompt: سنجاق‌شده
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: '%b %e, %Y'
+    dayjs: 'll'
+  archives:
+    strftime: '%b'
+    dayjs: 'MMM'
+
+# categories page
+categories:
+  category_measure:
+    singular: دسته‌بندی
+    plural: دسته‌بندی‌ها
+  post_measure:
+    singular: مرکز
+    plural: مراکز

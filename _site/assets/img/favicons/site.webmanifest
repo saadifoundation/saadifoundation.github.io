@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Saadi Foundation",
-  "short_name": "Saadi Foundation",
-  "description": "List of Persian teaching institutions through the world.",
+  "name": "بنیاد سعدی",
+  "short_name": "بنیاد سعدی",
+  "description": "متولیان آموزش زبان فارسی در جهان",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

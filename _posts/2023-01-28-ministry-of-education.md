@@ -1,15 +1,15 @@
 ---
-title: Ministry of Education
+title: وزارت آموزش و پرورش
 date: 2023-01-28 15:40:20 +0330
-tags: [institution, governmental]
+tags: [دولتی, موسسه]
 image:
     path: https://cdn.8deynews.com/uploads/2019/08/amozesh-parvaresh-logo.png
-    alt: Ministry of Education
+    alt: لوگوی وزارت آموزش و پرورش
 ---
 
-# Ministry of Education
+# وزارت آموزش و پرورش
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 
-## About
+## درباره
 
-## Contact us
+## ارتباط با ما

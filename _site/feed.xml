@@ -2,15 +2,15 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Saadi Foundation</title>
-  <subtitle>List of Persian teaching institutions through the world.</subtitle>
-  <updated>2023-01-29T00:35:52+03:30</updated>
+  <title>بنیاد سعدی</title>
+  <subtitle>متولیان آموزش زبان فارسی در جهان</subtitle>
+  <updated>2023-01-30T14:02:12+03:30</updated>
   <author>
     <name>SaadiFoundation</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
-  <link rel="alternate" type="text/html" hreflang="en"
+  <link rel="alternate" type="text/html" hreflang="fa"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 SaadiFoundation </rights>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Saadi Foundation</title>
-    <link href="http://localhost:4000/posts/saadi-foundation/" rel="alternate" type="text/html" title="Saadi Foundation" />
+    <title>بنیاد سعدی</title>
+    <link href="http://localhost:4000/posts/saadi-foundation/" rel="alternate" type="text/html" title="بنیاد سعدی" />
     <published>2023-01-28T15:54:20+03:30</published>
   
     <updated>2023-01-28T23:34:04+03:30</updated>
@@ -34,10 +34,6 @@
 
   
     
-    <category term="TOP_CATEGORIE" />
-    
-    <category term="SUB_CATEGORIE" />
-    
   
 
   
@@ -48,16 +44,10 @@
 
 
 
-      Saadi Foundation
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+      بنیاد سعدی
 
-About
-lorem ipsum
-
-Statistics
-
-Contact us
-
+درباره
+یادگیری زبان فارسی همواره مورد توجه کسانی بوده است که به این زبان برای پاسخ‌گویی به نیازهای علمی و شغلی خود نیاز داشته‌اند. از سوی دیگر کسانی هستند که علاقه دارند با ادبیات فارسی و آثار و اندیشۀ مشاهیر آن آشنا شوند یا پیرامون آن، به پژوهش بپردازند. پشتوانۀ بیش از هزار سالۀ ادبیات غنی فارسی و آثار ارزنده شاعران و نویسندگانی چون فردوسی، بیهقی، خیام، عطار، مولوی، سعدی و حافظ، خو...
     </summary>
   
 
@@ -65,8 +55,8 @@ Contact us
 
   
   <entry>
-    <title>Ministry of Education</title>
-    <link href="http://localhost:4000/posts/ministry-of-education/" rel="alternate" type="text/html" title="Ministry of Education" />
+    <title>وزارت آموزش و پرورش</title>
+    <link href="http://localhost:4000/posts/ministry-of-education/" rel="alternate" type="text/html" title="وزارت آموزش و پرورش" />
     <published>2023-01-28T15:40:20+03:30</published>
   
     <updated>2023-01-28T23:34:04+03:30</updated>
@@ -89,12 +79,12 @@ Contact us
 
 
 
-      Ministry of Education
+      وزارت آموزش و پرورش
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
-About
+درباره
 
-Contact us
+ارتباط با ما
 
     </summary>
   
