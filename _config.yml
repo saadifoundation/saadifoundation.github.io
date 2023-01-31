@@ -29,11 +29,11 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://saadifoundation.github.io'
 
-# github:
-#  username:             # change to your github username
+github:
+ username:             # change to your github username
 
-# twitter:
-#  username:            # change to your twitter username
+twitter:
+ username:            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,6 +42,7 @@ social:
   email: edu@saadifoundation.ir
   links:
     # The first element serves as the copyright owner's link
+    - https://saadifoundation.ir
     # - https://twitter.com/SaadiFoundation      # change to your twitter homepage
     # - https://github.com/SaadiFoundation       # change to your github homepage
     # Uncomment below to add more social links

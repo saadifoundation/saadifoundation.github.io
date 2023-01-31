@@ -26,20 +26,36 @@
   /* Customized CSS
   * For Persian etc.
   */
-  body,* {
+  body {
     direction: rtl;
-    font-family: Vazirmatn, sans-serif !important;
+    font-family: Vazirmatn, sans-serif;
 
     #sidebar {
       right: 0;
       ul {
         padding-right: 0;
       }
+      
+      @media (max-width: 849px)
+      {
+          transition: transform .4s ease;
+          transform: translateX(260px);
+          -webkit-transform: translateX(270px);
+      }
     }
 
     #main-wrapper {
       margin-right: 260px;
       margin-left: 0;
+
+      @media (min-width: 850px) and (max-width: 1199px)
+      {
+        margin-right: 210px;
+      }
+      @media (max-width: 849px)
+      {
+          margin-right: 0;
+      }
 
       #panel-wrapper {
         text-align: right;
@@ -58,20 +74,53 @@
         margin-left: 0;
         margin-right: 2rem;
       }
+
+      #related-posts {
+        text-align: right;
+      }
     }
 
     #topbar-wrapper {
       right: 260px;
       left: 0;
+      text-align: right;
+
+      @media (min-width: 850px) and (max-width: 1199px)
+      {
+        right: 210px;
+        left: 0;
+      }
+      @media (max-width: 849px)
+      {
+          transition: transform .4s ease,top .2s ease;
+          right: 0;
+      }
     }
     
     footer {
       margin-right: 260px;
       margin-left: 0;
+
+      @media (min-width: 850px) and (max-width: 1199px)
+      {
+        margin-right: 210px;
+      }
+      @media (max-width: 849px)
+      {
+          margin-right: 0;
+      }
     }
 
     .post {
       text-align: right;
     }
+
+    h1, h2, h3, #topbar-title {
+      font-family: Vazirmatn, sans-serif;
+    }
     
+  }
+
+  .sidebar-display #sidebar {
+    right: 0;
   }
