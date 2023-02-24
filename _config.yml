@@ -19,12 +19,12 @@ timezone: Asia/Tehran
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: متولیان آموزش زبان فارسی- بنیاد سعدی                          # the main title
+title: فعالان آموزش زبان فارسی به غیرفارسی زبانان                          # the main title
 
-tagline: متولیان آموزش زبان فارسی در جهان   # it will display as the sub-title
+tagline: فعالان آموزش زبان فارسی به غیرفارسی زبانان   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  متولیان آموزش زبان فارسی در جهان
+  فعالان آموزش زبان فارسی به غیرفارسی زبانان
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://saadifoundation.github.io'

@@ -57,10 +57,11 @@
   padding-right: 0.5rem;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 1rem;
 
   .post-preview {
-    width: 50%;
+    width: 40%;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
     padding-right: 1rem;
