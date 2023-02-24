@@ -42,7 +42,7 @@ layout: page
 
 {% for post in posts %}
     <div class="card post-preview">
-        <a href="{{ post.url | relative_url }}">
+        <a class="post-image" href="{{ post.url | relative_url }}">
             <img class="card-img-top" src="{{ post.image.path }}" alt="{{ post.image.alt }}" />
         </a>
         <div class="card-body">

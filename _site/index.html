@@ -445,7 +445,7 @@
 
 
     <div class="card post-preview">
-        <a href="/posts/almustafa/">
+        <a class="post-image" href="/posts/almustafa/">
             <img class="card-img-top" src="/assets/img/logos/almustafa.png" alt="مرکز آموزش زبان و معارف اسلامی جامعه المصطفی (ص) العالمیه" />
         </a>
         <div class="card-body">
@@ -483,7 +483,7 @@
 
 
     <div class="card post-preview">
-        <a href="/posts/imam-khomeini/">
+        <a class="post-image" href="/posts/imam-khomeini/">
             <img class="card-img-top" src="/assets/img/logos/imam-khomeini.png" alt="مرکز آموزش زبان فارسی دانشگاه بين المللي امام خميني (ره)" />
         </a>
         <div class="card-body">
@@ -521,7 +521,7 @@
 
 
     <div class="card post-preview">
-        <a href="/posts/atu/">
+        <a class="post-image" href="/posts/atu/">
             <img class="card-img-top" src="/assets/img/logos/atu.png" alt="مرکز آموزش زبان فارسی به غیرفارسی‌زبانان دانشگاه علامه طباطبایی" />
         </a>
         <div class="card-body">
@@ -559,7 +559,7 @@
 
 
     <div class="card post-preview">
-        <a href="/posts/qalam-center/">
+        <a class="post-image" href="/posts/qalam-center/">
             <img class="card-img-top" src="/assets/img/logos/qalam-center.png" alt="مرکز آموزشی و مترجمی قلم" />
         </a>
         <div class="card-body">
@@ -597,7 +597,7 @@
 
 
     <div class="card post-preview">
-        <a href="/posts/saadi-foundation/">
+        <a class="post-image" href="/posts/saadi-foundation/">
             <img class="card-img-top" src="/assets/img/logos/saadi-foundation.png" alt="بنیاد سعدی" />
         </a>
         <div class="card-body">
@@ -1751,7 +1751,7 @@
 
 
     </div>
-    <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
+    <div id="search-results" class="d-flex flex-wrap text-muted mt-3"></div>
   </div>
 </div>
 
@@ -1824,7 +1824,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('search-results'),
   json: '/assets/js/data/search.json',
-  searchResultTemplate: '<div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-lg-4 pr-lg-4 pl-xl-0 pr-xl-0">  <a href="{url}">{title}</a>  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">    {categories}    {tags}  </div>  <p>{snippet}</p></div>',
+  searchResultTemplate: '<div class="mr-3 pl-1 pr-1 pl-sm-2 pr-sm-2 pl-lg-4 pr-lg-4 pl-xl-0 pr-xl-0">  <a href="{url}">{title}</a>  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">    {categories}    {tags}  </div>  <p>{snippet}</p></div>',
   noResultsText: '<p class="mt-5">نتیجه‌ای پیدا نشد.</p>',
   templateMiddleware: function(prop, value, template) {
     if (prop === 'categories') {

@@ -60,8 +60,16 @@
   flex-wrap: wrap;
   gap: 1rem;
 
+  .post-image {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .post-preview {
     width: 40%;
+    min-width: 240px;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
     padding-right: 1rem;
@@ -200,4 +208,9 @@
   #post-list {
     padding-right: 0;
   }
+}
+
+/* Search results */
+#search-results a {
+  font-family: Vazirmatn;
 }
