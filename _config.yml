@@ -19,12 +19,12 @@ timezone: Asia/Tehran
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: فعالان آموزش زبان فارسی به غیرفارسی زبانان                          # the main title
+title: فعالان آموزش زبان فارسی به غیرفارسی‌زبانان                          # the main title
 
-tagline: فعالان آموزش زبان فارسی به غیرفارسی زبانان   # it will display as the sub-title
+tagline: فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  فعالان آموزش زبان فارسی به غیرفارسی زبانان
+  فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://saadifoundation.github.io'
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://books.saadifoundation.ir/img/saadifoundation-logo.png
+avatar: /assets/img/logos/saadi-foundation.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
