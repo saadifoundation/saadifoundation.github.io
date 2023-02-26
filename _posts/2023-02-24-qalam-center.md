@@ -8,6 +8,7 @@ image:
 website: https://qalam-center.com/?lang=fa
 email: info@qalam-center.com
 address: عراق، بغداد، شهر مقدس کاظمین
+phone: +9647735909080
 ---
 
 ## درباره موسسه

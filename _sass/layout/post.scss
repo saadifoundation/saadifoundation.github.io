@@ -389,3 +389,22 @@ nav[data-toggle="toc"] {
 .post-content {
   text-align: justify;
 }
+
+/* contact card of post with image */
+#contact-card {
+  background-color: #4a45de;
+
+  #image-div {
+    width: 40%;
+    min-width: 240px;
+  }
+  #contact-div {
+    width: 40%;
+    min-width: 240px;
+    list-style-type: none;
+
+    a {
+      color: #ffffff;;
+    }
+  }
+}

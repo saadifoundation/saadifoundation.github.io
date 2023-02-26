@@ -8,6 +8,7 @@ image:
 website: http://ilis.ir
 email: info@ilis.ir
 address: قم، بلوار امین، مقابل صداوسیما، مرکز آموزش زبان و معارف اسلامی
+phone: +982532912365
 ---
 
 ## درباره موسسه

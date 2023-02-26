@@ -73,6 +73,9 @@ post:
       succeed: پیوند با موفقیت کپی شد!
   # pinned prompt of posts list on homepage
   pin_prompt: سنجاق‌شده
+  website: وبسایت
+  email: ارسال ایمیل به موسسه
+  phone: تماس تلفنی با موسسه
 
 # Date time format.
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
