@@ -214,3 +214,17 @@
 #search-results a {
   font-family: Vazirmatn;
 }
+
+/* Sidebar */
+#sidebar .site-title a {
+  color: rgba(230, 228, 228, 0.99);
+}
+#sidebar .nav-item {
+  text-align: right;
+}
+#sidebar a {
+  color: rgb(252 252 252);
+}
+#sidebar .nav-item.active .nav-link {
+  color: #e4c674
+}

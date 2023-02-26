@@ -15,6 +15,7 @@ tabs:
   tags: برچسب‌ها
   archives: فهرست مراکز
   about: درباره
+  register: ثبت نام
 
 # the text displayed in the search bar & search results
 search:
