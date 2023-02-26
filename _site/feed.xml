@@ -4,16 +4,16 @@
   <id>http://localhost:4000/</id>
   <title>فعالان آموزش زبان فارسی به غیرفارسی‌زبانان</title>
   <subtitle>فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان</subtitle>
-  <updated>2023-02-26T19:08:29+03:30</updated>
+  <updated>2023-02-26T19:13:45+03:30</updated>
   <author>
-    <name>SaadiFoundation</name>
+    <name>بنیاد سعدی</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="fa"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 SaadiFoundation </rights>
+  <rights> © 2023 بنیاد سعدی </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -29,7 +29,7 @@
     <id>http://localhost:4000/posts/almustafa/</id>
     <content src="http://localhost:4000/posts/almustafa/" />
     <author>
-      <name>SaadiFoundation</name>
+      <name>بنیاد سعدی</name>
     </author>
 
   
@@ -62,7 +62,7 @@
     <id>http://localhost:4000/posts/imam-khomeini/</id>
     <content src="http://localhost:4000/posts/imam-khomeini/" />
     <author>
-      <name>SaadiFoundation</name>
+      <name>بنیاد سعدی</name>
     </author>
 
   
@@ -95,7 +95,7 @@
     <id>http://localhost:4000/posts/atu/</id>
     <content src="http://localhost:4000/posts/atu/" />
     <author>
-      <name>SaadiFoundation</name>
+      <name>بنیاد سعدی</name>
     </author>
 
   
@@ -128,7 +128,7 @@
     <id>http://localhost:4000/posts/qalam-center/</id>
     <content src="http://localhost:4000/posts/qalam-center/" />
     <author>
-      <name>SaadiFoundation</name>
+      <name>بنیاد سعدی</name>
     </author>
 
   
@@ -161,7 +161,7 @@
     <id>http://localhost:4000/posts/saadi-foundation/</id>
     <content src="http://localhost:4000/posts/saadi-foundation/" />
     <author>
-      <name>SaadiFoundation</name>
+      <name>بنیاد سعدی</name>
     </author>
 
   
