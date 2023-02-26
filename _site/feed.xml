@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>فعالان آموزش زبان فارسی به غیرفارسی‌زبانان</title>
   <subtitle>فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان</subtitle>
-  <updated>2023-02-26T22:20:54+03:30</updated>
+  <updated>2023-02-26T22:54:55+03:30</updated>
   <author>
     <name>بنیاد سعدی</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/tums/" rel="alternate" type="text/html" title="کالج بین الملل دانشگاه علوم پزشکی تهران" />
     <published>2023-02-26T19:00:00+03:30</published>
   
-    <updated>2023-02-26T21:27:12+03:30</updated>
+    <updated>2023-02-26T22:21:44+03:30</updated>
   
     <id>http://localhost:4000/posts/tums/</id>
     <content src="http://localhost:4000/posts/tums/" />
@@ -59,7 +59,7 @@
     <link href="http://localhost:4000/posts/almustafa/" rel="alternate" type="text/html" title="مرکز آموزش زبان و معارف اسلامی جامعه المصطفی (ص) العالمیه" />
     <published>2023-02-24T22:30:00+03:30</published>
   
-    <updated>2023-02-26T21:27:12+03:30</updated>
+    <updated>2023-02-26T22:21:44+03:30</updated>
   
     <id>http://localhost:4000/posts/almustafa/</id>
     <content src="http://localhost:4000/posts/almustafa/" />
@@ -92,7 +92,7 @@
     <link href="http://localhost:4000/posts/imam-khomeini/" rel="alternate" type="text/html" title="مرکز آموزش زبان فارسی دانشگاه بین المللی امام خمینی (ره)" />
     <published>2023-02-24T22:20:00+03:30</published>
   
-    <updated>2023-02-26T21:27:12+03:30</updated>
+    <updated>2023-02-26T22:21:44+03:30</updated>
   
     <id>http://localhost:4000/posts/imam-khomeini/</id>
     <content src="http://localhost:4000/posts/imam-khomeini/" />
@@ -125,7 +125,7 @@
     <link href="http://localhost:4000/posts/atu/" rel="alternate" type="text/html" title="مرکز آموزش زبان فارسی به غیرفارسی‌زبانان دانشگاه علامه طباطبایی" />
     <published>2023-02-24T22:00:00+03:30</published>
   
-    <updated>2023-02-26T21:27:12+03:30</updated>
+    <updated>2023-02-26T22:21:44+03:30</updated>
   
     <id>http://localhost:4000/posts/atu/</id>
     <content src="http://localhost:4000/posts/atu/" />
@@ -158,7 +158,7 @@
     <link href="http://localhost:4000/posts/qalam-center/" rel="alternate" type="text/html" title="مرکز آموزشی و مترجمی قلم" />
     <published>2023-02-24T21:00:00+03:30</published>
   
-    <updated>2023-02-26T21:27:12+03:30</updated>
+    <updated>2023-02-26T22:21:44+03:30</updated>
   
     <id>http://localhost:4000/posts/qalam-center/</id>
     <content src="http://localhost:4000/posts/qalam-center/" />
