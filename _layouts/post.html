@@ -13,7 +13,7 @@ tail_includes:
 
 <div class="post-meta text-muted">
 
-  <div class="d-flex justify-content-center bg-info text-white p-2">
+  <div class="d-flex flex-wrap justify-content-center text-white p-2" style="background-color: #4a45de;">
     <div style="width: 40%; min-width: 240px;">
       {% if page.image %}
         {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
@@ -35,10 +35,10 @@ tail_includes:
       {% endif %}
     </div>
     {% if page.website or page.address or page.email %}
-    <ul id="contact" class="d-flex flex-column justify-content-center flex-wrap" style="min-width: 240px;">
+    <ul id="contact" class="d-flex flex-column justify-content-center flex-wrap" style="width: 40%; min-width: 240px;">
       {% if page.website %}
         <li>
-          <a href='{{page.website}}'>Link</a>
+          <a href='{{page.website}}' target="_blank">Link</a>
         </li>
       {% endif %}
       {% if page.email %}
