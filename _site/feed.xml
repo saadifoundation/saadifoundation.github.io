@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>فعالان آموزش زبان فارسی به غیرفارسی‌زبانان</title>
   <subtitle>فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان</subtitle>
-  <updated>2023-02-26T21:00:25+03:30</updated>
+  <updated>2023-02-26T21:26:51+03:30</updated>
   <author>
     <name>بنیاد سعدی</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/tums/" rel="alternate" type="text/html" title="کالج بین الملل دانشگاه علوم پزشکی تهران" />
     <published>2023-02-26T19:00:00+03:30</published>
   
-    <updated>2023-02-26T20:59:38+03:30</updated>
+    <updated>2023-02-26T21:00:32+03:30</updated>
   
     <id>http://localhost:4000/posts/tums/</id>
     <content src="http://localhost:4000/posts/tums/" />

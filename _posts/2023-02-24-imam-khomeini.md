@@ -5,6 +5,8 @@ date: 2023-02-24 22:20:00 +0330
 image: 
     path: /assets/img/logos/imam-khomeini.png
     alt: مرکز آموزش زبان فارسی دانشگاه بین المللی امام خمینی (ره)
+website: http://www.ikiu.ac.ir/fa/page-view.php?pid=42
+address: قزوین، دانشگاه بین‌المللی امام خمینی، سازمان مرکزی
 ---
 
 ## درباره موسسه

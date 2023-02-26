@@ -5,6 +5,9 @@ date: 2023-02-24 21:00:00 +0330
 image: 
     path: /assets/img/logos/qalam-center.png
     alt: مرکز آموزشی و مترجمی قلم
+website: https://qalam-center.com/?lang=fa
+email: info@qalam-center.com
+address: عراق، بغداد، شهر مقدس کاظمین
 ---
 
 ## درباره موسسه

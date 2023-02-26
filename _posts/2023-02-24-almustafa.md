@@ -5,6 +5,9 @@ date: 2023-02-24 22:30:00 +0330
 image: 
     path: /assets/img/logos/almustafa.png
     alt: مرکز آموزش زبان و معارف اسلامی جامعه المصطفی (ص) العالمیه 
+website: http://ilis.ir
+email: info@ilis.ir
+address: قم، بلوار امین، مقابل صداوسیما، مرکز آموزش زبان و معارف اسلامی
 ---
 
 ## درباره موسسه
