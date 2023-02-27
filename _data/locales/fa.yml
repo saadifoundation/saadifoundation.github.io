@@ -76,6 +76,7 @@ post:
   website: وبسایت
   email: ارسال ایمیل به موسسه
   phone: تماس تلفنی با موسسه
+  intro_file: دانلود فایل معرفی موسسه
 
 # Date time format.
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>

@@ -9,6 +9,8 @@ website: https://qalam-center.com/?lang=fa
 email: info@qalam-center.com
 address: عراق، بغداد، شهر مقدس کاظمین
 phone: +9647735909080
+intro_file: https://core.saadifoundation.ir/wp-content/uploads/2023/01/Qalam-introduction.pdf
+intro_video_aparat_code: LxfSI
 ---
 
 ## درباره موسسه

@@ -8,6 +8,7 @@ image:
 website: http://www.ikiu.ac.ir/fa/page-view.php?pid=42
 address: قزوین، دانشگاه بین‌المللی امام خمینی، سازمان مرکزی
 phone: +982833780021
+intro_file: https://core.saadifoundation.ir/wp-content/uploads/2023/01/Imam-Khomeini-introduction.pdf
 ---
 
 ## درباره موسسه

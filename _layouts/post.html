@@ -34,7 +34,7 @@ tail_includes:
         </div>
       {% endif %}
     </div>
-    {% if page.website or page.address or page.email %}
+    {% if page.website or page.address or page.email or page.phone %}
     <ul id="contact-div" class="d-flex flex-column justify-content-center flex-wrap">
       {% if page.website %}
         <li>
@@ -65,7 +65,15 @@ tail_includes:
           <i class="fa-fw fas fa-map-marker ml-2"></i>
           <span>{{page.address}}</span>
         </li>
-        {% endif %}
+      {% endif %}
+      {% if page.intro_file %}
+        <li>
+          <a href='{{page.intro_file}}' target="_blank">
+            <i class="fa-fw fas fa-download ml-2"></i>
+            {{- site.data.locales[site.lang].post.intro_file -}}
+          </a>
+        </li>
+      {% endif %}
     </ul>
     {% endif %}
   </div>
@@ -88,6 +96,21 @@ tail_includes:
   </div> <!-- .d-flex -->
 
 </div> <!-- .post-meta -->
+
+{% if page.intro_video_aparat_code %}
+<div id="intro_video">
+  <div class="h_iframe-aparat_embed_frame">
+    <span style="display: block;padding-top: 57%">
+    </span>
+    <iframe 
+      src="https://www.aparat.com/video/video/embed/videohash/{{ page.intro_video_aparat_code }}/vt/frame"
+      allowFullScreen="true"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true">
+    </iframe>
+  </div>
+</div>
+{% endif %}
 
 <div class="post-content">
   {{ content }}
