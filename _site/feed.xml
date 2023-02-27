@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>فعالان آموزش زبان فارسی به غیرفارسی‌زبانان</title>
   <subtitle>فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان</subtitle>
-  <updated>2023-02-27T23:59:10+03:30</updated>
+  <updated>2023-02-28T00:02:56+03:30</updated>
   <author>
     <name>بنیاد سعدی</name>
     <uri>http://localhost:4000/</uri>
@@ -92,7 +92,7 @@
     <link href="http://localhost:4000/posts/imam-khomeini/" rel="alternate" type="text/html" title="مرکز آموزش زبان فارسی دانشگاه بین المللی امام خمینی (ره)" />
     <published>2023-02-24T22:20:00+03:30</published>
   
-    <updated>2023-02-26T22:21:44+03:30</updated>
+    <updated>2023-02-27T23:59:59+03:30</updated>
   
     <id>http://localhost:4000/posts/imam-khomeini/</id>
     <content src="http://localhost:4000/posts/imam-khomeini/" />
@@ -158,7 +158,7 @@
     <link href="http://localhost:4000/posts/qalam-center/" rel="alternate" type="text/html" title="مرکز آموزشی و مترجمی قلم" />
     <published>2023-02-24T21:00:00+03:30</published>
   
-    <updated>2023-02-26T22:21:44+03:30</updated>
+    <updated>2023-02-27T23:59:59+03:30</updated>
   
     <id>http://localhost:4000/posts/qalam-center/</id>
     <content src="http://localhost:4000/posts/qalam-center/" />
