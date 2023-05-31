@@ -1,9 +1,9 @@
 ---
 title: رایزنی فرهنگی سفارت جمهوری اسلامی ایران در سوریه 
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
-date: 2023-05-22 22:30:00 +0330
+date: 2023-05-22 14:45:00 +0330
 image: 
-    path: /assets/img/logos/Cultural-consultation-in-Syria.png
+    path: /assets/img/logos/Cultural-consultation-in-Syria.jpg
     alt: رایزنی فرهنگی سفارت جمهوری اسلامی ایران در سوریه 
 website: https://ar.icro.ir/Damascus
 email: gmail@H.K.7777.ir
