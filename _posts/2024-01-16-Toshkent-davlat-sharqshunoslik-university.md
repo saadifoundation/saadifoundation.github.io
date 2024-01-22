@@ -3,7 +3,7 @@ title: دانشگاه دولتی شرق شناسی تاشکند
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2023-05-22 22:30:00 +0330
 image: 
-    path: /assets/img/logos/Toshkent davlat sharqshunoslik university.png
+    path: /assets/img/logos/Toshkent-davlat-sharqshunoslik-university.png
     alt: دانشگاه دولتی شرق شناسی تاشکند 
 website: https://uz.wikipedia.org/wiki/Toshkent_davlat_sharqshunoslik_universiteti
 email: info@tsuos.uz

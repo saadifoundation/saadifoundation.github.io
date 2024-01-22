@@ -3,7 +3,7 @@ title: خانه فرهنگ ایران در بنگلادش
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2024-01-14 13:50:00 +0330
 image: 
-    path: /assets/img/logos/House of Iranian culture in Bangladesh.jpg
+    path: /assets/img/logos/House-of-Iranian-culture-in-Bangladesh.jpg
     alt: خانه فرهنگ ایران در بنگلادش
 website: https://dhaka.icro.ir
 email: 	Dhaka.icro@gmail.com

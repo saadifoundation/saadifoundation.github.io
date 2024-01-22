@@ -3,7 +3,7 @@ title: انستیتو کشورهای آسیا و آفریقا وابسته به 
 tags: [آموزش زبان فارسی حضوری, آموزش زبان فارسی الکترونیکی همزمان, تالیف کتاب, برگزاری آزمون تعیین سطح]
 date: 2024-01-14 12:30:00 +0330
 image: 
-    path: /assets/img/logos/Institute of Asia and Africa MGU.png
+    path: /assets/img/logos/Institute-of-Asia-and-Africa-MGU.jpg
     alt: انستیتو کشورهای آسیا و آفریقا وابسته به دانشگاه دولتی مسکو
 website: http://iaas.msu.ru
 email: 	office@iaas.msu.ru
