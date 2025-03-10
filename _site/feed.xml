@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>فعالان آموزش زبان فارسی به غیرفارسی‌زبانان</title>
   <subtitle>فهرست مراکز آموزش زبان فارسی به غیرفارسی‌زبانان در جهان</subtitle>
-  <updated>2023-05-13T19:03:12+03:30</updated>
+  <updated>2025-03-10T17:57:20+03:30</updated>
   <author>
     <name>بنیاد سعدی</name>
     <uri>http://localhost:4000/</uri>
@@ -12,22 +12,22 @@
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="fa"
     href="http://localhost:4000/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 بنیاد سعدی </rights>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 بنیاد سعدی </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>کالج بین الملل دانشگاه علوم پزشکی تهران</title>
-    <link href="http://localhost:4000/posts/tums/" rel="alternate" type="text/html" title="کالج بین الملل دانشگاه علوم پزشکی تهران" />
-    <published>2023-02-26T19:00:00+03:30</published>
+    <title>رایزنی فرهنگی سفارت جمهوری اسلامی ایران در ترکمنستان</title>
+    <link href="http://localhost:4000/posts/Turkmenistan/" rel="alternate" type="text/html" title="رایزنی فرهنگی سفارت جمهوری اسلامی ایران در ترکمنستان" />
+    <published>2024-01-16T10:38:00+03:30</published>
   
-    <updated>2023-02-26T22:21:44+03:30</updated>
+    <updated>2025-03-10T16:10:40+03:30</updated>
   
-    <id>http://localhost:4000/posts/tums/</id>
-    <content src="http://localhost:4000/posts/tums/" />
+    <id>http://localhost:4000/posts/Turkmenistan/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Turkmenistan/" />
     <author>
       <name>بنیاد سعدی</name>
     </author>
@@ -36,33 +36,22 @@
     
   
 
-  
-    <summary>
-      
+  <summary>درباره موسسه
 
-
-
-
-
-      درباره موسسه
-کالج به عنوان عضو کوچکی از دانشگاه علوم پزشکی تهران و با استفاده از توان علمی و عملی خود و هم افزایی ظرفیت های ویژۀ دانشگاه مادر، به عنوان حلقه اتصال جامعه در سطوح ملی و بین المللی با دانشگاه ها و موسسات آموزش عالی و سازمان های داخلی و خارجی با اهداف زیر تاسیس می گردد:
-
-  تلاش در جهت تحقق اهداف تعریف شده در سند چشم انداز بیست ساله و برنامه های توسعه اقتصادی ،اجتماعی و فرهنگی کشور د...
-    </summary>
-  
+رایزنی فرهنگی جمهوری اسلامی ایران یکی از مراکز مهم ترین مراکز آموزش زبان فارسی در دنیا می باشد. کلاس‌های آموزش زبان فارسی در محل رایزنی فرهنگی سفارت جمهوری اسلامی ایران در عشق آباد در چارچوب توافق‌نامه همکاری های فرهنگی بین دوکشور برگزار می گردد. دوره‌های آموزش زبان فارسی در مرکز آموزش رایزنی فرهنگی از موقعیت ویژه‌ای برخوردار است، به طوری که در هر ترم تحصیلی سه ماهه، بیش از 400 فا...</summary>
 
   </entry>
 
   
   <entry>
-    <title>مرکز آموزش زبان و معارف اسلامی جامعه المصطفی (ص) العالمیه</title>
-    <link href="http://localhost:4000/posts/almustafa/" rel="alternate" type="text/html" title="مرکز آموزش زبان و معارف اسلامی جامعه المصطفی (ص) العالمیه" />
-    <published>2023-02-24T22:30:00+03:30</published>
+    <title>دانشگاه داکا</title>
+    <link href="http://localhost:4000/posts/Dhaka/" rel="alternate" type="text/html" title="دانشگاه داکا" />
+    <published>2024-01-16T10:06:00+03:30</published>
   
-    <updated>2023-02-26T22:21:44+03:30</updated>
+    <updated>2024-01-22T13:51:10+03:30</updated>
   
-    <id>http://localhost:4000/posts/almustafa/</id>
-    <content src="http://localhost:4000/posts/almustafa/" />
+    <id>http://localhost:4000/posts/Dhaka/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Dhaka/" />
     <author>
       <name>بنیاد سعدی</name>
     </author>
@@ -71,31 +60,22 @@
     
   
 
-  
-    <summary>
-      
+  <summary>درباره موسسه
 
-
-
-
-
-      درباره موسسه
-مرکز آموزش زبان و معارف اسلامی وابسته به جامعه المصطفی (ص) العالمیه ، یکی از مهم‌ترین ورودی‌های جامعه المصطفی العالمیه با قدمتی قریب به ۳۰ سال می باشد. این مجموعه پس از پیروزی انقلاب اسلامی آغاز به کار کرده است. آوازه جمهوری اسلامی ایران آزاد مردان و مسلمانان آزاده دنیا را به سوی این مرز و بوم گسیل داده و بالتبع برای پاسخگویی به این تقاضا، مرکزی جهت آموزش زبان فارسی بوجود آمده  است...
-    </summary>
-  
+  سابقه فعالیت بخش زبان و ادبیات فارسی در دانشگاه داکا به سال 1921، همزمان با سال تأسیس دانشگاه داکا باز می¬گردد و قدمت کرسی زبان و ادبیات فارسی در این دانشگاه 100ساله است. از آغاز 12 رشته برای فعالیت علمی و فرهنگی در این دانشگاه شروع به¬کار کرد که یکی از این رشته¬ها زبان و ادبیات فارسی بوده است. در حال حاضر، 93 گروه و مؤسسه در این دانشگاه فعال هستند. این دانشگاه حدود 2000 هیأت عل...</summary>
 
   </entry>
 
   
   <entry>
-    <title>مرکز آموزش زبان فارسی دانشگاه بین المللی امام خمینی (ره)</title>
-    <link href="http://localhost:4000/posts/imam-khomeini/" rel="alternate" type="text/html" title="مرکز آموزش زبان فارسی دانشگاه بین المللی امام خمینی (ره)" />
-    <published>2023-02-24T22:20:00+03:30</published>
+    <title>خانه فرهنگ ایران در بنگلادش</title>
+    <link href="http://localhost:4000/posts/House-of-Iranian-culture-in-Bangladesh/" rel="alternate" type="text/html" title="خانه فرهنگ ایران در بنگلادش" />
+    <published>2024-01-14T13:50:00+03:30</published>
   
-    <updated>2023-02-27T23:59:59+03:30</updated>
+    <updated>2025-03-10T17:23:03+03:30</updated>
   
-    <id>http://localhost:4000/posts/imam-khomeini/</id>
-    <content src="http://localhost:4000/posts/imam-khomeini/" />
+    <id>http://localhost:4000/posts/House-of-Iranian-culture-in-Bangladesh/</id>
+    <content type="text/html" src="http://localhost:4000/posts/House-of-Iranian-culture-in-Bangladesh/" />
     <author>
       <name>بنیاد سعدی</name>
     </author>
@@ -104,31 +84,22 @@
     
   
 
-  
-    <summary>
-      
+  <summary>درباره موسسه
 
-
-
-
-
-      درباره موسسه
-مرکز آموزش زبان فارسی دوره های متعدد فارسی را که متناسب با نیاز افراد مختلف است برگزار می کند.در دوره های فارسی پایه و فارسی پیشرفته زبان آموزان هفته ای ٢٠ ساعت آموزش می بینند. کلاس ها بر اساس چهار مهارت اصلی درک شنیدن، مکالمه، درک خواندن و نگارش و درس دستور برنامه ریزی می شود.میزان تاکید بر مهارت ها در حالت عمومی یکسان است ولی چنان چه زبان آموزان نیاز به تقویت بیشتر مهارت های خاص ...
-    </summary>
-  
+تا سال 1349 تنها یک مدرسه ایرانی غیر دولتی در قطر مشغول به فعالیت بود و اولین مدرسه دولتی ایرانی در سال 1350-1349 کار خود را با آموزش به دانش آموزان پسر آغاز نمود. کم کم با رشد تعداد دانش آموزان ایرانی و علاقمندی خانواده ها به تحصیل فرزندانشان در مدارس دولتی ایرانی تعداد واحدهای آموزشی دولتی ( دخترانه و پسرانه ) در سطوح ابتدایی- راهنمایی و متوسطه توسعه پیدا کرد. این مدارس در قبل و...</summary>
 
   </entry>
 
   
   <entry>
-    <title>مرکز آموزش زبان فارسی به غیرفارسی‌زبانان دانشگاه علامه طباطبایی</title>
-    <link href="http://localhost:4000/posts/atu/" rel="alternate" type="text/html" title="مرکز آموزش زبان فارسی به غیرفارسی‌زبانان دانشگاه علامه طباطبایی" />
-    <published>2023-02-24T22:00:00+03:30</published>
+    <title>انستیتو کشورهای آسیا و آفریقا وابسته به دانشگاه دولتی مسکو</title>
+    <link href="http://localhost:4000/posts/Institute-of-Asia-and-Africa-MGU/" rel="alternate" type="text/html" title="انستیتو کشورهای آسیا و آفریقا وابسته به دانشگاه دولتی مسکو" />
+    <published>2024-01-14T12:30:00+03:30</published>
   
-    <updated>2023-02-26T22:21:44+03:30</updated>
+    <updated>2025-03-10T17:23:03+03:30</updated>
   
-    <id>http://localhost:4000/posts/atu/</id>
-    <content src="http://localhost:4000/posts/atu/" />
+    <id>http://localhost:4000/posts/Institute-of-Asia-and-Africa-MGU/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Institute-of-Asia-and-Africa-MGU/" />
     <author>
       <name>بنیاد سعدی</name>
     </author>
@@ -137,31 +108,22 @@
     
   
 
-  
-    <summary>
-      
+  <summary>درباره موسسه
 
-
-
-
-
-      درباره موسسه
-مرکز آموزش زبان فارسی به غیرفارسی‌زبانان دانشگاه علامه طباطبائی در قلب تهران واقع شده‌است. معماری سنتی این مرکز یادآور اصالت و فرهنگ ایرانی است. در این مرکز، با استفاده از یافته‌های نوین علمی دوره‌های کوتاه مدت و بلندمدت آموزش زبان فارسی، به دو صورت مجازی (آموزش از راه دور) و حضوری برگزار می‌شود. فارسی‌­آموزان این مرکز می­‌توانند بخشی از آموزش خود را در ایران و بخشی دیگر را در کشور...
-    </summary>
-  
+اریخ آموزش زبان و فرهنگ شرق در دانشگاه دولتی مسکو به سالهای 50 قرن هجدهم برمیگردد. انستیتوی کشورهای آسیا و آفریقا (ایسآ) در سال 1956 در کنار سایر گروهها در دانشکده های تاریخ و زبانشناسی تاسیس شد. این انستیتو مرکز اصلی آماده سازی شرق شناسان در روسیه به شمار میرود و دانشجویان آن امکان کسب تحصیلات اختصاصی در یکی از سه شاخه تاریخ، زبانشناسی و علوم اجتماعی – اقتصادی را دارند. پس از اتم...</summary>
 
   </entry>
 
   
   <entry>
-    <title>مرکز آموزشی و مترجمی قلم</title>
-    <link href="http://localhost:4000/posts/qalam-center/" rel="alternate" type="text/html" title="مرکز آموزشی و مترجمی قلم" />
-    <published>2023-02-24T21:00:00+03:30</published>
+    <title>رایزنی فرهنگی جمهوری اسلامی ایران در عمان</title>
+    <link href="http://localhost:4000/posts/Oman/" rel="alternate" type="text/html" title="رایزنی فرهنگی جمهوری اسلامی ایران در عمان" />
+    <published>2024-01-14T10:30:00+03:30</published>
   
-    <updated>2023-02-27T23:59:59+03:30</updated>
+    <updated>2025-03-10T17:26:12+03:30</updated>
   
-    <id>http://localhost:4000/posts/qalam-center/</id>
-    <content src="http://localhost:4000/posts/qalam-center/" />
+    <id>http://localhost:4000/posts/Oman/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Oman/" />
     <author>
       <name>بنیاد سعدی</name>
     </author>
@@ -170,18 +132,9 @@
     
   
 
-  
-    <summary>
-      
+  <summary>درباره موسسه
 
-
-
-
-
-      درباره موسسه
-ایده تاسیس کانون آموزش و ترجمه قلم، با اعتماد بر توانایی‌های فردی و سعی و تلاش و کار طاقت فرسا، و تصمیم‌گیری‌هایی با استقلالیت کامل به هدف رسیدن به بهترین نتایج جهت ایجاد پیشرفت‌های علمی و عملی زبان آموز در تمامی زبان‌ها و با کمک روش‌های مدرن در این زمینه جهت ارائه خدمات به جامعه عراقی سرچشمه گرفت. و تمامى موفقیت‌هاى به انجام رسیده با کمک و یاری پرسنلی کاردیده و کارآزموده در زمینه ...
-    </summary>
-  
+کشورهای حاشیه خلیج فارس وخصوصا عمان به علت نزدیکی جغرافیائی و مراودات بازرگانی باکشورمان درطول قرن های گذشته همواره بستری جهت انتقال فرهنگ وآداب وسنن به طرف مقابل بوده اند ودرپاره ای از زمانها این اقوام زیر سلطه حاکمیتهای مختلفی که به صورت سلاسل پادشاهی درایران رخ نموده کاملا تحت انقیاد حاکمیت ایران بوده اند دراین میان قهراً زبان وفرهنگ قوه قاهر اقوام تحت سلطه را بیش از هرچیز دیگر...</summary>
 
   </entry>
 
